@@ -10,4 +10,10 @@ package main.java;
  * @since 1.0-SNAPSHOT
  */
 public class Controller {
+
+    Contract[] subscriptions;
+
+    public Controller(Contract[] subscriptions) {
+        this.subscriptions = subscriptions;
+    }
 }
