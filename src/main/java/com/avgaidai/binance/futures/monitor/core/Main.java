@@ -1,4 +1,4 @@
-import java.util.Optional;
+package com.avgaidai.binance.futures.monitor.core;
 
 /**
  * @author Anatoly Gaidai
@@ -10,8 +10,6 @@ public class Main {
     static public void main(String args[]) {
 
         Application.start();
-
-
 
         Application.stop();
 

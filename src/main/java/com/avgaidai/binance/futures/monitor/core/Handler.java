@@ -1,4 +1,4 @@
-package main.java;
+package com.avgaidai.binance.futures.monitor.core;
 
 /**
  *

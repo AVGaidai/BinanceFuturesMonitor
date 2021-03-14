@@ -1,4 +1,4 @@
-package tradingData;
+package com.avgaidai.binance.futures.monitor.tradingData;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
